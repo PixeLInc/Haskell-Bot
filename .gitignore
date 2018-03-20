@@ -1,0 +1,7 @@
+.stack-work/
+discord-bot.cabal
+*~
+cabal-dev/
+.cabal-sandbox
+cabal.sandbox.config
+.hsenv*
